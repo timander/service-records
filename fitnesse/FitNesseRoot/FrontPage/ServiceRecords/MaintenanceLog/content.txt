@@ -1,9 +1,0 @@
-!contents -R2 -g -p -f -h
-
-|net.timandersen.fixtures.ServiceRecordsDoFixture|
-
-|given|something|
-
-|when|something happens|
-
-|then|verify something happened|

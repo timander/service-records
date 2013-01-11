@@ -3,3 +3,4 @@
 *.ipr
 target
 *.log
+.idea

@@ -1,0 +1,9 @@
+!contents -R2 -g -p -f -h
+
+!*> '''Classpath'''
+${maven.classpath}
+*!
+
+!path ../target/test-classes
+!path ../target/classes
+!path ../target/dependency/*.jar
